@@ -1,0 +1,32 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unleash the Power of Unlimited Creativity",
+  "subtitle": "Elevate your ideas to new heights with our innovative solution"
+}
